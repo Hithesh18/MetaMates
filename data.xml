@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doctors>
+    <Doctor>
+        <Name>Hausärzte Stadtmitte</Name>
+        <Speciality>general practitioner</Speciality>
+        <Address>Marienstraße 28</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70178</ZIPCode>
+        <City>Stuttgart</City>
+        <PhoneNumber>0711-2200144</PhoneNumber>
+        <Website>http://hausaerzte-stadtmitte.de/en/</Website>
+        <Rating>4.2</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Ioannis Kotrotosos</Name>
+        <Speciality>ENT medicine</Speciality>
+        <Address>Kronenstraße 19</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart</City>
+        <PhoneNumber>0711-22631 23</PhoneNumber>
+        <Website>https://www.hno-praxis-zentrum-stuttgart.de/</Website>
+        <Rating>4.7</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Roger Brauchle</Name>
+        <Speciality>general practitioner</Speciality>
+        <Address>Tübinger Straße 18</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70178</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-6200268</PhoneNumber>
+        <Website></Website>
+        <Rating>4.8</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Matthias Frank</Name>
+        <Speciality>general practitioner</Speciality>
+        <Address>Calwer Straße 11</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-6208010</PhoneNumber>
+        <Website>http://hausaerzte-zentrum-stuttgart.de/</Website>
+        <Rating>4.6</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>M. Sc. Furong Lu </Name>
+        <Speciality>internal medicine</Speciality>
+        <Speciality>general practitioner</Speciality>
+        <Speciality>acupuncture</Speciality>
+        <Address>Marienplatz 8</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70178</ZIPCode>
+        <City>Stuttgart-Süd</City>
+        <PhoneNumber>0711-67444050</PhoneNumber>
+        <Website>https://arztpraxis-marienplatz.de/hausarztbetreuung</Website>
+        <Rating>3.9</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. Tim Nieden</Name>
+        <Speciality>cardiology</Speciality>
+        <Address>Königstraße 2</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-2271500</PhoneNumber>
+        <Website>https://kardiopraxis-stuttgart.de/</Website>
+        <Rating>4.6</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dematologie in Stuttgart</Name>
+        <Speciality>dermathology</Speciality>
+        <Address>Lange Straße 9</Address>
+        <ClinicOffice>clinic</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart</City>
+        <PhoneNumber>0711 253990-70</PhoneNumber>
+        <Website>https://www.dermatologie-in-stuttgart.de/</Website>
+        <Rating>4.8</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Dietmar Klein</Name>
+        <Speciality>endrocrinology</Speciality>
+        <Address>Königstrasse 60</Address>
+        <ClinicOffice>clinic</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart</City>
+        <PhoneNumber>0711-540905-10</PhoneNumber>
+        <Website>https://www.zedo-stuttgart.de/</Website>
+        <Rating>3.9</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Elena Pudel</Name>
+        <Speciality>proctology</Speciality>
+        <Address>Friedrichstraße 5</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-90114771</PhoneNumber>
+        <Website>https://www.proktologie-stuttgart-mitte.de/</Website>
+        <Rating>3.9</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Bernd Schudde</Name>
+        <Speciality>orthopaedics</Speciality>
+        <Address>Kronenstraße 24</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-2220999</PhoneNumber>
+        <Website>https://www.maybachmedical.com/stuttgart-mitte</Website>
+        <Rating>4.4</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. Johannes Quercetti</Name>
+        <Speciality>orthopaedics</Speciality>
+        <Address>Calwer Straße 23</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-46996600</PhoneNumber>
+        <Website>https://dr-quercetti.com/</Website>
+        <Rating>4.3</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Stefan Wittorf</Name>
+        <Speciality>internal medicine</Speciality>
+        <Address>Königstraße 66</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-294800</PhoneNumber>
+        <Website>https://www.internisten-im-netz.de/aerzte/stuttgart/wittorf/startseite.html</Website>
+        <Rating>4.8</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. dent. Claudia Kittinger</Name>
+        <Speciality>dental medicine</Speciality>
+        <Address>Königstraße 70</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-290273</PhoneNumber>
+        <Website>https://www.neoimpladent.de/</Website>
+        <Rating>5</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Oktay M. Temiz</Name>
+        <Speciality>ophthalmology</Speciality>
+        <Address>Rotebühlplatz 17</Address>
+        <ClinicOffice>clinic</ClinicOffice>
+        <ZIPCode>70178</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-4898686</PhoneNumber>
+        <Website>https://www.augenzentrum-stuttgartmitte.de/</Website>
+        <Rating>4.7</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Alexander Beyer</Name>
+        <Speciality>cardiology</Speciality>
+        <Address>Schöttlestraße 34c</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70597</ZIPCode>
+        <City>Stuttgart</City>
+        <PhoneNumber>0711-7678989</PhoneNumber>
+        <Website>http://kinderkardiologische-praxis-stuttgart.de/</Website>
+        <Rating>4.8</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Claudia Gareis</Name>
+        <Speciality>general practitioner</Speciality>
+        <Speciality>natural healing</Speciality>
+        <Address>Bahnhofstraße 11</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70372</ZIPCode>
+        <City>Stuttgart – Bad Cannstatt</City>
+        <PhoneNumber>0711-305 41 26</PhoneNumber>
+        <Website>http://www.praxis-gareis.de/</Website>
+        <Rating>4.7</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. Stephan Grün</Name>
+        <Speciality>internal medicine</Speciality>
+        <Speciality>cardiology</Speciality>
+        <Address>Taubenheimstraße 51</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70372</ZIPCode>
+        <City>Stuttgart – Bad Cannstatt</City>
+        <PhoneNumber>0711-567395</PhoneNumber>
+        <Website>https://www.hausaerzte-cannstatt.de/</Website>
+        <Rating>3.3</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Magistar Polixeni Pantazi</Name>
+        <Speciality>general practitioner</Speciality>
+        <Address>Bahnhofstraße 8</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70372</ZIPCode>
+        <City>Stuttgart – Bad Cannstatt</City>
+        <PhoneNumber>0711-55372160</PhoneNumber>
+        <Website>https://allgemeinarztpraxis-pantazi.de/</Website>
+        <Rating>4.7</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Ammar Omanović</Name>
+        <Speciality>internal medicine</Speciality>
+        <Speciality>cardiology</Speciality>
+        <Address>Kaiserslauterer Straße 14</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70499</ZIPCode>
+        <City>Stuttgart - Weilimdorf</City>
+        <PhoneNumber>0711-8894960</PhoneNumber>
+        <Website>https://medivic.de/index.php</Website>
+        <Rating>5</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Carmen Morhard</Name>
+        <Speciality>general practitioner</Speciality>
+        <Speciality>acupuncture</Speciality>
+        <Address>Reinsburgstraße 200</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70197</ZIPCode>
+        <City>Stuttgart - West</City>
+        <PhoneNumber>0711-6599308</PhoneNumber>
+        <Website>https://www.hausarztpraxis-akupunktur.de/kontakt/</Website>
+        <Rating>3.8</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Nadine Mattes</Name>
+        <Speciality>internal medicine</Speciality>
+        <Address>Böheimstraße 106</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70199</ZIPCode>
+        <City>Stuttgart - Süd</City>
+        <PhoneNumber>0711-34171821</PhoneNumber>
+        <Website>https://www.praxissued.de/</Website>
+        <Rating>5</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Julia Kretschmer-Schick</Name>
+        <Speciality>ENT medicine</Speciality>
+        <Address>Olgastraße 43</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70182</ZIPCode>
+        <City>Stuttgart - Mitte</City>
+        <PhoneNumber>0711-60 25 10</PhoneNumber>
+        <Website>https://www.hnomedic.de/standort/stuttgart-olgaeck</Website>
+        <Rating>4.3</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Payam Maneschi</Name>
+        <Speciality>ENT medicine</Speciality>
+        <Address>Marktstraße 69</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70372</ZIPCode>
+        <City>Stuttgart – Bad Cannstatt</City>
+        <PhoneNumber>0711-56 23 30</PhoneNumber>
+        <Website>https://www.hno-badcannstatt.de/</Website>
+        <Rating>4.7</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Larissa Bernhardt</Name>
+        <Speciality>general practitioner</Speciality>
+        <Speciality>acupuncture</Speciality>
+        <Address>Bahnhofstraße 1 </Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70372</ZIPCode>
+        <City>Stuttgart – Bad Cannstatt</City>
+        <PhoneNumber>0711-8893909</PhoneNumber>
+        <Website>https://praxis-larissa-bernhardt.de/</Website>
+        <Rating>4.5</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        <Name>Dr. med. Wolfgang Hörter</Name>
+        <Speciality>general practitioner</Speciality>
+        <Speciality>natural healing</Speciality>
+        <Address>Deckerstraße 39</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70372</ZIPCode>
+        <City>Stuttgart – Bad Cannstatt</City>
+        <PhoneNumber>0711-5094090</PhoneNumber>
+        <Website>https://drhoerter.de/</Website>
+        <Rating>3.7</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+</Doctors>

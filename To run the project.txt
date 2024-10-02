@@ -1,0 +1,11 @@
+To run the project
+1.Our project as 4 files (2 python, 1 XML and 1 HTML (Inside Templates) )
+2.Run $ python main.py (It will create tables and insert the XML data into Postgres)
+3.Run $ python app.py (It will open Frontend HTML page for view the tables)
+
+For testing purpose we have added 4 data and also attached collected XML Raw data.
+
+
+
+
+

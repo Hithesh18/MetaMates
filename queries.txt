@@ -1,0 +1,47 @@
+Find All Doctors
+SELECT * FROM Doctors;
+
+Find Doctors by Specialty
+SELECT * FROM Doctors WHERE Speciality = 'general practitioner';
+
+Find Doctors in a Specific City
+SELECT * FROM Doctors WHERE City = 'Stuttgart';
+
+Find Doctors by Rating Greater Than a Certain Value
+SELECT * FROM Doctors WHERE Rating > 4.5;
+
+Find Doctors Who Offer Online Appointments
+SELECT * FROM Doctors WHERE OnlineAppointment = TRUE;
+
+Find Doctors by ZIP Code
+SELECT * FROM Doctors WHERE ZIPCode = '70178';
+
+Find Doctors by Specialty and City
+SELECT * FROM Doctors WHERE Speciality = 'general practitioner' AND City = 'Stuttgart';
+
+Find Doctors by Specialty and Rating Greater Than a Certain Value
+SELECT * FROM Doctors WHERE Speciality = 'ENT medicine' AND Rating > 4.0;
+
+Find Doctors Who Offer Online Appointments in a Specific City
+SELECT * FROM Doctors WHERE OnlineAppointment = TRUE AND City = 'Stuttgart';
+
+Find Doctors by Specialty, Rating Greater Than a Certain Value, and Offering Online Appointments
+SELECT * FROM Doctors WHERE Speciality = 'general practitioner' AND Rating > 4.5 AND OnlineAppointment = TRUE;
+
+Find Doctors by City, ZIP Code, and Rating in Descending Order
+SELECT * FROM Doctors WHERE City = 'Stuttgart' AND ZIPCode = '70178' ORDER BY Rating DESC;
+
+Find Top 5 Highest Rated Doctors in a Specific Specialty
+SELECT * FROM Doctors WHERE Speciality = 'ENT medicine' ORDER BY Rating DESC LIMIT 5;
+
+Find Doctors by Name Pattern and Sorted by Rating
+SELECT * FROM Doctors WHERE Name LIKE '%Roger%' ORDER BY Rating DESC;
+
+Count of Doctors by Specialty
+SELECT Speciality, COUNT(*) as DoctorCount FROM Doctors GROUP BY Speciality;
+
+Average Rating of Doctors by City
+SELECT City, AVG(Rating) as AverageRating FROM Doctors GROUP BY City;
+
+Count of Doctors Offering Online Appointments by City
+SELECT City, COUNT(*) as OnlineAppointmentCount FROM Doctors WHERE OnlineAppointment = TRUE GROUP

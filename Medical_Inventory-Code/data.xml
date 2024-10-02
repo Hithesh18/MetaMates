@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doctors>
+    <Doctor>
+       
+        <Name>Hausärzte Stadtmitte</Name>
+        <Speciality>general practitioner</Speciality>
+        <Address>Marienstraße 28</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70178</ZIPCode>
+        <City>Stuttgart</City>
+        <PhoneNumber>0711-2200144</PhoneNumber>
+        <Website>http://hausaerzte-stadtmitte.de/en/</Website>
+        <Rating>4.2</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        
+        <Name>Dr. med. Ioannis Kotrotosos</Name>
+        <Speciality>ENT medicine</Speciality>
+        <Address>Kronenstraße 19</Address>
+        <ClinicOffice>joint practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart</City>
+        <PhoneNumber>0711-2263123</PhoneNumber>
+        <Website>https://www.hno-praxis-zentrum-stuttgart.de/</Website>
+        <Rating>4.7</Rating>
+        <OnlineAppointment>Yes</OnlineAppointment>
+    </Doctor>
+    <Doctor>
+        
+        <Name>Dr. med. Roger Brauchle</Name>
+        <Speciality>general practitioner</Speciality>
+        <Address>Tübinger Straße 18</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70178</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-6200268</PhoneNumber>
+        <Website></Website>
+        <Rating>4.8</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+
+    <Doctor>
+        
+        <Name>Dr. med. oger Brauchle</Name>
+        <Speciality>general ractitioner</Speciality>
+        <Address>Tübinger Sraße 18</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70178</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-620268</PhoneNumber>
+        <Website></Website>
+        <Rating>4.8</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+
+      <Doctor>
+        <Name>Dr. med. Stefan Wittorf</Name>
+        <Speciality>internal medicine</Speciality>
+        <Address>Königstraße 66</Address>
+        <ClinicOffice>private practice</ClinicOffice>
+        <ZIPCode>70173</ZIPCode>
+        <City>Stuttgart-Mitte</City>
+        <PhoneNumber>0711-294800</PhoneNumber>
+        <Website>https://www.internisten-im-netz.de/aerzte/stuttgart/wittorf/startseite.html</Website>
+        <Rating>4.8</Rating>
+        <OnlineAppointment>No</OnlineAppointment>
+    </Doctor>
+</Doctors>
